@@ -1,9 +1,9 @@
 # <img src="https://github.com/GokuMohandas/practicalAI/blob/master/images/logo.png" width="200" />
 
-[![Colab](https://img.shields.io/badge/launch-Colab-orange.svg)](https://github.com/GokuMohandas/practicalAI#notebooks)
+[![Colab](https://img.shields.io/badge/launch-Colab-orange.svg)](https://github.com/dennysjmarquez/AI#notebooks)
 [![Binder](https://img.shields.io/badge/launch-Jupyter-45aaf2.svg)](https://mybinder.org/v2/gh/GokuMohandas/practicalAI/master)
 [![Kesci](https://img.shields.io/badge/Kesci-中文-cd201f.svg)](https://www.kesci.com/home/column/5c20e4c5916b6200104eea63)
-[![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/GokuMohandas/practicalAI/blob/master/LICENSE)
+[![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/dennysjmarquez/AI/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/GokuMohandas.svg?label=Follow&style=social)](https://twitter.com/GokuMohandas)
 
 Empowering you to use machine learning to get valuable insights from data.
@@ -24,7 +24,7 @@ Empowering you to use machine learning to get valuable insights from data.
 |💥 Clustering|||🍒 Reinforcement Learning|
 
 ## Running the notebooks
-1. Access the notebooks in the [`notebooks`](https://github.com/GokuMohandas/practicalAI/tree/master/notebooks) directory in this repo.
+1. Access the notebooks in the [`notebooks`](https://github.com/dennysjmarquez/AI/tree/master/notebooks) directory in this repo.
 2. You can run these notebook on Google Colab (recommended) or on your local machine.
 3. Click on a notebook and replace `https://github.com/` with `https://colab.research.google.com/github/` in the notebook URL or use this [Chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) to do it with one click.
 4. Sign into your Google account.
